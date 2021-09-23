@@ -1,0 +1,30 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<library>
+
+    <book category = "technical books">
+        <isbn> 9781118008188 </isbn>
+         <title> HTML and CSS: Design and Build Websites </title>
+        <author> Jon Duckett </author>
+    </book>
+
+    <book category = "technical books">
+        <isbn> 9780134685991 </isbn>
+        <title> Effective Java  </title>
+        <author> Joshua Bloch </author>
+    
+    </book>
+ 
+    <book category = "cooking books">
+        <isbn> 9781785303500 </isbn>
+        <title> Peter Bakes </title>
+        <author> Peter Sawkins </author>
+    </book>
+
+    <book category = "cooking books">
+        <isbn> 9780241431177 </isbn>
+        <title> Together: Memorable Meals Made Easy </title>
+        <author> Jamie Oliver </author>
+    </book>
+
+</library>
+        
